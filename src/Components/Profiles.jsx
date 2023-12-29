@@ -3,7 +3,7 @@ const Profiles = () => {
         <>
         <div className="p-3">
             <div>
-                <img src="/src/assets/han.png" alt="saya" className="w-28 m-auto"/>
+                <img src="/public/assets/han.png" alt="saya" className="w-28 m-auto"/>
             </div>
             <div className="p-2 text-center">
                 <h1 className="text-2xl font-semibold">HaN</h1>
